@@ -1,0 +1,497 @@
+[
+   {
+      "name": "The Bangalore Cafe",
+      "add": "4, Kengal Hanumanthaiah Rd, Bheemanna Garden, Shanti Nagar, Bengaluru, Karnataka 560027",
+      "phone": "098442 40786"
+   },
+   {
+      "name": "Persian Terrace",
+      "add": "4th Floor, 26/1, Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560055",
+      "phone": "Null"
+   },
+   {
+      "name": "Lotus Pavilion, ITC Gardenia - Restaurants In Bengaluru",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Spice Terrace",
+      "add": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Karavalli",
+      "add": "Vivanta, 66, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "phone": "080666 04545"
+   },
+   {
+      "name": "Rim Naam",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Shiro",
+      "add": "3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "JW Kitchen",
+      "add": "24, 1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Ebony",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "The Only Place",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Tandoor | A Heritage Indian Restaurant & Bar",
+      "add": "Mahatma Gandhi Rd, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "The Bengaluru Brasserie",
+      "add": "Hyatt Centric MG Road Bangalore, 1/1, Old Madras Rd, Halasuru, Bengaluru, Karnataka 560008",
+      "phone": "Null"
+   },
+   {
+      "name": "Spiceklub Restaurant Bengaluru",
+      "add": "#18, Convent Rd, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Salvadores Fine Dining",
+      "add": "5th Floor, Bangalore Central Mall, Residency Rd, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Gufha Restaurant, Jayanagar",
+      "add": "79/8, Diagonal Road, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Lapis",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "ZEST by Southern Star Bengaluru",
+      "add": "40/2, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Chutney Chang",
+      "add": "HM Eleganza, 31 & 31/1, Museum Rd, near Church Street, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Farzi Cafe",
+      "add": "2nd UB City, M G Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Taaza Thindi",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Hard Rock Cafe",
+      "add": "40, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Olive Beach",
+      "add": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Mangalore Pearl",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "The Fatty Bao",
+      "add": "Third Floor, 610, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+      "phone": "Null"
+   },
+   {
+      "name": "Toscano",
+      "add": "24, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Saffron - Radisson Blu Bengaluru",
+      "add": "90/4, Outer Ring Rd, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037",
+      "phone": "Null"
+   },
+   {
+      "name": "Green Theory",
+      "add": "Green Theory, 15, Convent Rd, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Bo Tai, Bengaluru",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "The Rice Bowl",
+      "add": "Before Rotary Club, 40/2, Hotel Southern Star Bangalore, Lavelle Road, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Nasi and Mee - Koramangala",
+      "add": "974, 80 Feet Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "phone": "080 4151 3456"
+   },
+   {
+      "name": "Burma Burma Restaurant & Tea Room",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Quattro Ristorante Bengaluru",
+      "add": "18, Convent Rd, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Sunheri Plaintain",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Sunnys Restaurant",
+      "add": "50, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "080 4132 9366"
+   },
+   {
+      "name": "Curry Leaves",
+      "add": "#15, 1st main Road, Kariyappa Road Kanakapura Road, Parvathamma Rajkumar Circle, near Yediyur Lake, Basavanagudi, Bengaluru, Karnataka 560004",
+      "phone": "Null"
+   },
+   {
+      "name": "Truffles",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Life Tree Restaurant",
+      "add": "4th Floor, Melange Astris, 1, Langford Gardens, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "The 13th Floor",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Caraway Kitchen",
+      "add": "25/3, Kensington Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
+      "phone": "Null"
+   },
+   {
+      "name": "Koshy's",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Ssaffron",
+      "add": "Level 18, Shangri-La Hotel, No. 56-6B, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "The Permit Room",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Caprese",
+      "add": "Level 18, Shangri-La Hotel, No.56, 6B, Palace Rd, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Uthra Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Mg's Fine Dining",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "The Royal Afghan",
+      "add": "25, Ramana Maharshi Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560051",
+      "phone": "080 6140 1227"
+   },
+   {
+      "name": "Empire Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Monkey Bar",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "No.10 Fort Cochin - Seafood Restaurant in St.Marks Road, Bangalore",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "The Creek",
+      "add": "The DEN Hotel, ITPL Main Rd, Whitefield, KIADB Export Promotion Industrial Area, Krishnarajapura, Bengaluru, Karnataka 560066",
+      "phone": "Null"
+   },
+   {
+      "name": "DAKSHIN",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Kudla Restaurant",
+      "add": "Ramanashree Richmond, 16, Raja Ram Mohan Roy Rd, Sampangi, Sampangi Rama Nagara, Rama Nagar, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "MISU, St Marks Road",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Yataii",
+      "add": "Level 18, Shangri-La Hotel, No. 56, 6B, Palace Rd, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Oh! Calcutta",
+      "add": "2nd floor, 33, Church St, Above Mainland China, \u0936\u093e\u0902\u0924\u093f \u0928\u0917\u0930, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Puran Da Dhaba",
+      "add": "The Pride Hotel, 93 Richmond Road, Bengaluru, 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Alba",
+      "add": "Jw Marriott Hotel, 24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Kebabs & Kurries, ITC Gardenia - Restaurants In Bengaluru",
+      "add": "Itc Gardenia, 1, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "Riwaz",
+      "add": "99, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "phone": "080 4914 8441"
+   },
+   {
+      "name": "Curry with a K",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Sanchez",
+      "add": "UB City, 204, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "One Atria Cafe",
+      "add": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "The Chariot Pure Vegetarian",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Vidyarthi Bhavan",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Tiamo",
+      "add": "25/3, Kensington Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
+      "phone": "088844 63819"
+   },
+   {
+      "name": "Nisarga Garden Veg Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "In Wok",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "CLAY RESTO",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Highland Nectar - ITC Gardenia - Restaurants In Bengaluru",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Mirage",
+      "add": "6th Floor, 1 Sobha, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "095389 41981"
+   },
+   {
+      "name": "Roomali",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Toscano",
+      "add": "Museum Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "SodaBottleOpenerWala",
+      "add": "Plot Number 25, 4, Lavelle Road, opposite Harley Davidson Showroom, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Kaz\u00e9 Bar & Kitchen",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Chili's American Grill & Bar",
+      "add": "Store R3 and R3 - A, Dr Rajkumar Rd, Rajaji Nagar, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055",
+      "phone": "Null"
+   },
+   {
+      "name": "Shezan Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Brassa",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Smoke House Deli Lavelle Road",
+      "add": "Shop 52, Ground Floor, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Harima Japanese Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Badmaash UB City",
+      "add": "UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Cafe Noir",
+      "add": "UB City, Unit No 206, The Collection, No 24, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Spice It",
+      "add": "Plot No - 30, Rajaram Mohan Roy Road, Bengaluru, Karnataka 560027",
+      "phone": "XH8V+WH Bengaluru, Karnataka"
+   },
+   {
+      "name": "Bangalore Thindies Infantry Rd",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Indian Durbar",
+      "add": "Conrad Bengaluru, 25/3, Kensington Rd, Halasuru, Karnataka 560008",
+      "phone": "Null"
+   },
+   {
+      "name": "Pai Vihar Grand Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Rich Grills Restaurant Mahalakshmi Layout",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Cave-n-Dine",
+      "add": "4th Stage, 3rd Block, 12, 1st Main Rd, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+      "phone": "Null"
+   },
+   {
+      "name": "Nisarga Grand",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Snow Lion Tibet Kitchen",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Sly Granny, Indiranagar",
+      "add": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+      "phone": "Null"
+   },
+   {
+      "name": "Bangalore",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Church Street Social",
+      "add": "Church St 46/1, Cobalt, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "SALT - Indian Restaurant Bar & Grill",
+      "add": "KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "phone": "Null"
+   },
+   {
+      "name": "Bheema's Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Bengaluru Restaurant",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "Nagarjuna Restaurant - Indiranagar",
+      "add": "Null",
+      "phone": "Null"
+   },
+   {
+      "name": "COASTAL MACHALI CO.",
+      "add": "136, Ground Floor, Cears Plaza Residency Road, Richmond Rd, beside Chancery Pavilion, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   },
+   {
+      "name": "COASTAL MACHALI CO.",
+      "add": "136, Ground Floor, Cears Plaza Residency Road, Richmond Rd, beside Chancery Pavilion, Bengaluru, Karnataka 560025",
+      "phone": "Null"
+   }
+]
