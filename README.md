@@ -1,3 +1,3 @@
 # Scrapping
 
-Here is the requied file for the given task in this the data is fetched.
+The Scrapping is done using Selenium to scrap the content from google maps and store it in JSON format.
